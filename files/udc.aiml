@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+     
+    <pattern>ciao</pattern>
+    <template>Vuoi scoprire il progetto dell'alternanza?</template>
+  </category>
+  
+  <category>
+      <pattern>si</pattern>
+      <template>Bene allora iniziamo:
+      Questâanno noi ragazzi della 4^Ainf abbiamo partecipato a un progetto di alternanza scuola-lavoro (PCTO) organizzato dal professore Borgogno. Esso consisteva nel creare un sito web assieme ad altre due persone per unâazienda di Savigliano della provincia di Cuneo. Questa si occupa di creare siti web e ha corretto alla fine i lavori prodotti di ogni gruppo. Io ho lavorato assieme a Bontempi Giacomo e Peretti Marco. Loro due si sono occupati del sito web, mentre io li ho aiutati e ho cercato nel frattempo delle informazioni e dei testi da inserire nel sito. Mi sono trovato molto bene insieme a loro perchÃ© il lavoro lo abbiamo diviso in maniera equa e nel frattempo ci siamo dati una mano a vicenda in caso di necessitÃ . Il nostro cliente in questo caso era il professore Borgogno che ci ha chiesto di fare un sito web sui droni. Le informazioni oltre a cercarle su internet le abbiamo ricevute su dei file pdf da un professore dellâitis che insegna elettrotecnica e che ha utilizzato queste slide per un corso sui droni lâanno scorso. Il nostro sito si divide in piÃ¹ parti. Inizialmente abbiamo la pagina home che contiene nellâheader un menÃ¹ con delle categorie diverse da cui reperire le informazioni, uno slider con delle immagini e sotto degli articoli sulle tre tipologie di droni, quelli di terra, quelli aerei e infine quelli acquatici. Nel menÃ¹ sono presenti cinque categorie. La prima Ã¨ quella delle norme e dentro ci sono le tre organizzazioni principali che creano normative e regole per far volare un drone. Nella seconda categoria denominata âhardwareâ si parla delle componenti del drone, i sensori di bordo e le possibili implementazioni. Nella terza parte si parla del software del drone, nello specifico del pid che Ã¨ un sistema di controllo di questâultimo. In questa categoria câÃ¨ una sottocategoria chiamata comandi dove sono presenti le misure di sicurezza che prende il drone in caso di pericolo. Per quarta abbiamo le applicazioni dove si parla come viene usato oggi il drone nei lavori o in generale dagli uomini. Per ultima si parla di futuro dove ci sono degli articoli che parlano di come saranno utilizzati in futuro i droni. Il sito Ã¨ prevalentemente informativo e porteremo migliorie consigliate dal signore di Etinet e da Borgogno.
+      </template>
+  </category>
+  
+  <category>
+      <pattern>grazie</pattern>
+      <template>arrivederci</template>
+  </category>
+  
+</aiml>
